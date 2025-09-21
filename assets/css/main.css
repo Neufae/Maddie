@@ -690,7 +690,6 @@ section,
 .hero .social-links {
   display: flex;
   gap: 20px;
-  justify-content: center; /* centers horizontally */
 }
 
 .hero .social-links a {
